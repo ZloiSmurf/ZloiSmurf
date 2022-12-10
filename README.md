@@ -2,6 +2,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Russia</h3>
 
+
+
+
+
+### About Me :
+- 🏫 Student of MIREA - Russian Technological University
+- 🌱 Studying C and C++
+- :zap: In my free time, I read tech articles.
+
+### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZloiSmurf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Cute_Dango)](https://leetcode.com/Cute_Dango/)
+### 📓 Extra links :
+- [Timus Online Judge](https://acm.timus.ru/author.aspx?id=334470)
+- [LeetCode](https://leetcode.com/Cute_Dango/)

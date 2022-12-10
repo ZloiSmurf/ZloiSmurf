@@ -9,7 +9,7 @@
 ### About Me :
 - 🏫 Student of MIREA - Russian Technological University
 - 🌱 Studying C, C++ and Python
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I read tech literature.
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZloiSmurf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

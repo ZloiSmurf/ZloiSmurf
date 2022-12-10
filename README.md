@@ -8,7 +8,7 @@
 
 ### About Me :
 - 🏫 Student of MIREA - Russian Technological University
-- 🌱 Studying C and C++
+- 🌱 Studying C, C++ and Python
 - :zap: In my free time, I read tech articles.
 
 ### :fire: My Stats :
